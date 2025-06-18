@@ -1,5 +1,5 @@
 {
-  "name": "bestfinder_models",
+  "name": "bestfinder-models",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/shakilshegu/Bestfinder_models#readme",
@@ -12,8 +12,8 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
-  "main": "Amenity.js",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
